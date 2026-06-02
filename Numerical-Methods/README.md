@@ -50,3 +50,6 @@ Learning-Path/
 ## Goal
 
 To build a strong foundation in numerical methods, scientific computing, and problem-solving through practical implementation of mathematical algorithms.
+
+
+These programs were developed as part of my learning journey in Computational Mathematics and Numerical Methods using C. AI tools were occasionally used to assist with understanding concepts, debugging, and improving implementations.
