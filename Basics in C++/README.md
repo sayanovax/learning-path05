@@ -36,7 +36,7 @@ This folder contains C++ programs developed as part of my learning journey in pr
 
 ## Purpose
 
-The programs in this folder were created to practice problem-solving, understand algorithm design, and strengthen C++ programming fundamentals.
+These C++ programs were created for learning and practice. AI tools were used as learning aids to explore programming concepts, understand algorithms, and improve problem-solving skills.
 
 ## Language
 
